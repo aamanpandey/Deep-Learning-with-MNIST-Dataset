@@ -10,4 +10,5 @@ The images are grayscale, 28x28 pixels, and centered to reduce preprocessing and
 The model achieve below accuracy:
 
 test accuracy:     97.8% 
+
 training accuracy: 98.92%
